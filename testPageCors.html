@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+      $(document).ready(function () {
+      callApiUsingAjax();
+  
+      function callApiUsingAjax(){
+      $.ajax({
+        //url: "http://localhost:7276/api/newapi/getCors", // Replace with your API endpoint URL
+        url : "https://localhost:7276/api/newapi/getcors",
+        type: "GET",
+        dataType: "json",
+        data:
+        {
+          val : "hello"
+        },
+        success: function (data) {
+          console.log(data);
+          
+        },
+        error: function (xhr, status, error) {
+          console.error(error);
+        }
+      });
+      }
+    });
+  </script>
+</body>
+</html>
