@@ -44,9 +44,6 @@ namespace corsTesting.Controllers
         //[HttPost("postprod")]
         public async Task<IActionResult> postprod(Product prod)
         {
-            // prod.Productname = "New val";
-            // prod.Status = "Married";
-
             if(prod == null)
             {
                 return BadRequest("Invalid JSON data");
@@ -86,7 +83,6 @@ namespace corsTesting.Controllers
         }
 
         public IActionResult deleteProd(int id){
-            //_context.Products.Remove(_context.Products.Find(id));
             var productRes = _context.Products.Where(element => element.ProductId == id).FirstOrDefault();
             _context.Products.Remove(productRes);
             _context.SaveChanges();

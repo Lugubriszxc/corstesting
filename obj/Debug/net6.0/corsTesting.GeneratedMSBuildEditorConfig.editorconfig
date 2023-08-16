@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = corsTesting
 build_property.RootNamespace = corsTesting
-build_property.ProjectDir = C:\Users\Neil Chris\Desktop\dotnet mvc test\corsTesting\
+build_property.ProjectDir = c:\Users\Neil Chris\Desktop\dotnet mvc test\corsTesting\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Neil Chris\Desktop\dotnet mvc test\corsTesting
+build_property.MSBuildProjectDirectory = c:\Users\Neil Chris\Desktop\dotnet mvc test\corsTesting
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/Index.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/pageCors.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/pageCors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ29ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/Privacy.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Create.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFwaVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Delete.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFwaVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Details.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFwaVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Edit.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFwaVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Index.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/ProductApi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdEFwaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/Error.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/_ViewImports.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/_ViewStart.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/_Layout.cshtml]
+[c:/Users/Neil Chris/Desktop/dotnet mvc test/corsTesting/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ctlxolc2nq
